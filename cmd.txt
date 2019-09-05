@@ -6,4 +6,6 @@ bazel --output_user_root=G:\output build --config=opt //tensorflow:libtensorflow
 需要编译的是libtensorflow_cc.so、libtensorflow_framework.so和install_headers三个项目
 
 
+
+https://blog.csdn.net/qq_35975447/article/details/91636625
 bazel --output_user_root=D:\youyb\output build --config=opt //tensorflow/tools/lib_package:libtensorflow
