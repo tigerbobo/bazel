@@ -1,8 +1,0 @@
-bazel --output_user_root=D:\youyb\output build
-
-
-bazel --output_user_root=G:\output build --config=opt //install_headers
-bazel --output_user_root=G:\output build --config=opt //libtensorflow_framework.so
-bazel --output_user_root=G:\output build --config=opt //libtensorflow_cc.so
-
-bazel --output_user_root=D:\youyb\output build --config=opt //tensorflow/tools/lib_package:libtensorflow
